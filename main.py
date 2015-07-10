@@ -1,3 +1,3 @@
 # encoding: utf-8
 
-print "Hello World!!"
+print "OK, Hello World!!"
